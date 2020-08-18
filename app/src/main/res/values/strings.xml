@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisContactos_Final</string>
+    <string name="nombre">Fernando Chara</string>
+    <string name="telefono">9999999</string>
+    <string name="email">f@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
